@@ -8,7 +8,7 @@
 ================================================
 
 .. toctree::
-   :maxdepth:14
+   :maxdepth: 14
 
    1电磁自适应有限元计算
    2地球电磁反演理论与应用
@@ -24,7 +24,3 @@
    12The finite element method in geo-electromagnetic modeling
    13大地电磁观测与应用面临的几个基本难题
    14电法勘查若干基本概念
-
-
-
-
