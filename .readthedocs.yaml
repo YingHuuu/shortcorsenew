@@ -25,9 +25,8 @@ sphinx:
 #    - pdf
 #    - epub
 python:
-install:
+  install:
       - requirements: docs/requirements.txt
-      - method: pip install
       - method: pip install
 
 # Optional but recommended, declare the Python requirements required
